@@ -1,0 +1,5 @@
+export enum UserIdType {
+	CLIENT_AGENT = 'CLIENT_AGENT',
+	FID_ASSOCIATE = 'CI_ASSOCIATE',
+	FID_EMP = 'CI_EMP',
+}
